@@ -1,4 +1,4 @@
-# coming-soon-test-1
+# coming-soon-test
 I made this project to challenge my knowledge about responsive web design
 
 ## features
